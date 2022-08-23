@@ -1,6 +1,6 @@
 # The Game (South American Dutch) 
 
-The game is played with a standard single deck of cards.
+The game is played with a standard single deck of cards. Exclude the jokers from the deck.
 
 Each player is dealt 4 cards face down in front of them. The rest of the deck in the middle of the table. The objective of the game is to have the lowest
 value (as assigned to individual cards) in your hand when the round finishes. You play until someone busts 100.
