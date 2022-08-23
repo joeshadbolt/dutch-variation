@@ -7,11 +7,11 @@ value (as assigned to individual cards) in your hand when the round finishes. Yo
 
 ## Card values
 
-Red king = -1
-Ace = 1
-Jack = 11
-Queen = 12
-Black king = 13
+- Red king = -1
+- Ace = 1
+- Jack = 11
+- Queen = 12
+- Black king = 13
 
 Rest of them is obvious...
 
