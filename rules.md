@@ -1,4 +1,4 @@
-# The Game
+# The Game (South American Dutch) 
 
 The game is played with a standard single deck of cards.
 
